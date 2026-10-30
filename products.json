@@ -1,5 +1,85 @@
 [
   {
+    "id": "new-3b71827261",
+    "title": "日本 博多華味鳥",
+    "price": 220.0,
+    "category": "美食美味",
+    "affiliateUrl": "https://s.shopee.tw/9APntVvFz2",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/312a3f3cffe2625202e65b24b0481453.webp"
+  },
+  {
+    "id": "new-703f1b14c8",
+    "title": "凝結礦砂 / 貓砂",
+    "price": 450.0,
+    "category": "寵物們",
+    "affiliateUrl": "https://s.shopee.tw/1gJmvqOBb0",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/b9bd4a40b41a55822a00b015dc46223f.webp"
+  },
+  {
+    "id": "new-8198ec9375",
+    "title": "日本 堀西 萬能 香料 調味粉",
+    "price": 238.0,
+    "category": "美食美味",
+    "affiliateUrl": "https://s.shopee.tw/80DqVW1uEk",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/sg-11134201-821d2-mgm8cc7ybthnd8.webp"
+  },
+  {
+    "id": "new-07a0ec6450",
+    "title": "日本東丸 牡蠣醬油",
+    "price": 335.0,
+    "category": "美食美味",
+    "affiliateUrl": "https://s.shopee.tw/6VP2isa8Yh",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/tw-11134201-820li-mrby7ix2vytde8.webp"
+  },
+  {
+    "id": "new-2afdaa5810",
+    "title": "好味小姐 貓肉泥 貓零食",
+    "price": 179.0,
+    "category": "寵物們",
+    "affiliateUrl": "https://s.shopee.tw/3LS0xD05Qm",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0i-mb7z08mgslegb5.webp"
+  },
+  {
+    "id": "new-a58f72849c",
+    "title": "日本 塩昆布部長 無添加塩昆布",
+    "price": 105.0,
+    "category": "美食美味",
+    "affiliateUrl": "https://s.shopee.tw/20wdMtQP8K",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztq-me6htorokver44.webp"
+  },
+  {
+    "id": "new-37188c0afb",
+    "title": "正版授權 JOOKI捉趣 雅米系列娃娃 安睡娃娃",
+    "price": 199.0,
+    "category": "居家生活",
+    "affiliateUrl": "https://s.shopee.tw/qkfzBdSlM",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztm-mizc6ylr9slf22.webp"
+  },
+  {
+    "id": "new-ff55eabd4d",
+    "title": "2aN 極簡主義6色眼影盤",
+    "price": 690.0,
+    "category": "美妝保養",
+    "affiliateUrl": "https://s.shopee.tw/20wdNT53ZN",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0t-mbz2x18blz5606.webp"
+  },
+  {
+    "id": "new-a6ed3cfba0",
+    "title": "我是台灣人 綁綁旗 行李掛旗 台灣胸章 出國胸章 徽章",
+    "price": 50.0,
+    "category": "居家生活",
+    "affiliateUrl": "https://s.shopee.tw/9fM4VlnWvk",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/8bbd338175f5b20e8d83bf8087d1df25.webp"
+  },
+  {
+    "id": "new-0aef7a5aa1",
+    "title": "台灣人胸章 國旗徽章 我是台灣人 胸章",
+    "price": 60.0,
+    "category": "居家生活",
+    "affiliateUrl": "https://s.shopee.tw/4VdyMNDdyR",
+    "imageUrl": "https://down-tw.img.susercontent.com/file/tw-11134207-81zto-mhh2uodozxfpd7.webp"
+  },
+  {
     "id": "27057539555",
     "title": "日本蒸汽熱敷眼罩",
     "price": 79.0,
